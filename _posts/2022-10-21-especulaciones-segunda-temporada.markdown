@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Especulaciones sobre la segunda temporada"
 date:   2022-10-21 17:24:14 +0100
 categories: Actualizaciones

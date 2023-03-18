@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Trailer de Cyberpunk"
 date:   2022-09-12 17:24:14 +0100
 categories: Trailer

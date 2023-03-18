@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Un post no tan feliz..."
 date:   2022-09-14 17:24:14 +0100
 categories: Finalización del anime
